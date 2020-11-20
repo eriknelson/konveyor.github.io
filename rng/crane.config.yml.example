@@ -6,57 +6,57 @@ output_file: "{{ output_dir }}/release-{{ new_release_version }}.md"
 
 repos:
 - name: mig-ui
-  url: "https://github.com/konveyor/mig-ui.git"
+  url: "git@github.com:/konveyor/mig-ui.git"
   nrv: "release-{{ new_release_version }}"
   lrv: "release-{{ last_release_version}}"
   has_changes: true
 - name: mig-controller
-  url: "https://github.com/konveyor/mig-controller.git"
+  url: "git@github.com:/konveyor/mig-controller.git"
   nrv: "release-{{ new_release_version }}"
   lrv: "release-{{ last_release_version}}"
   has_changes: true
 - name: mig-operator
-  url: "https://github.com/konveyor/mig-operator.git"
+  url: "git@github.com:/konveyor/mig-operator.git"
   nrv: "release-{{ new_release_version }}"
   lrv: "release-{{ last_release_version}}"
   has_changes: true
 - name: velero
-  url: "https://github.com/konveyor/velero.git"
+  url: "git@github.com:/konveyor/velero.git"
   nrv: "konveyor-1.4.3"
   lrv: "konveyor-1.4.2"
   has_changes: true
 - name: openshift-velero-plugin
-  url: "https://github.com/konveyor/opensihft-velero-plugin.git"
+  url: "git@github.com:/konveyor/openshift-velero-plugin.git"
   nrv: "release-{{ new_release_version }}"
   lrv: "release-{{ last_release_version}}"
   has_changes: true
 - name: velero-plugin-for-microsoft-azure
-  url: "https://github.com/konveyor/velero-plugin-for-microsoft-azure.git"
+  url: "git@github.com:/konveyor/velero-plugin-for-microsoft-azure.git"
   nrv: "konveyor-1.1.1"
   lrv: "konveyor-1.1.0"
   has_changes: true
 - name: velero-plugin-for-aws
-  url: "https://github.com/konveyor/velero-plugin-for-aws.git"
+  url: "git@github.com:/konveyor/velero-plugin-for-aws.git"
   nrv: "konveyor-1.1.0"
   lrv: "konveyor-1.0.1"
   has_changes: false
 - name: velero-plugin-for-gcp
-  url: "https://github.com/konveyor/velero-plugin-for-gcp.git"
+  url: "git@github.com:/konveyor/velero-plugin-for-gcp.git"
   nrv: "konveyor-1.1.0"
   lrv: "konveyor-1.0.1"
   has_changes: false
 - name: restic
-  url: "https://github.com/konveyor/resitc.git"
+  url: "git@github.com:/konveyor/restic.git"
   nrv: "konveyor-v0.9.6"
   lrv: "fusor-v0.9.5"
   has_changes: false
 - name: hook-runner
-  url: "https://github.com/konveyor/hook-runner.git"
+  url: "git@github.com:/konveyor/hook-runner.git"
   nrv: "release-{{ new_release_version }}"
   lrv: "release-{{ last_release_version }}"
   has_changes: false
 - name: must-gather
-  url: "https://github.com/konveyor/must-gather.git"
+  url: "git@github.com:/konveyor/must-gather.git"
   nrv: "release-{{ new_release_version }}"
   lrv: "release-{{ last_release_version }}"
   has_changes: true
