@@ -21,3 +21,8 @@
 - name: Append repo notes
   include_tasks: append_repo_notes.yml
   loop: "{{ repos }}"
+
+- name: Cleanup temporary dir
+  file:
+    path: "{{ tmp.path }}"
+    state: absent
