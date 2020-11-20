@@ -1,0 +1,12 @@
+---
+- name: Print repo name
+  debug:
+    msg: "Working on repo {{ item.name }}"
+
+- debug:
+    msg: "Has changes"
+  when: item.has_changes
+
+- debug:
+    msg: "No changes"
+  when: not item.has_changes

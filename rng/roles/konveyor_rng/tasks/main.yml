@@ -1,2 +1,15 @@
 ---
-# tasks file for konveyor_rng
+
+- name: Ensure release notes directory exists
+  file:
+    path: "{{ output_dir }}"
+    state: directory
+
+- name: Initialize notes
+  template:
+    src: init-release-notes.md.j2
+    dest: "{{ output_file }}"
+
+#- name: Append repo notes
+  #include_tasks: append_repo_notes.yml
+  #loop: "{{ repos }}
