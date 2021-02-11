@@ -9,7 +9,8 @@ You can find a list of presentations and meetings on this page. All dates and ti
 | ------------------ | --------------- | ----------- | ----------- |
 | March 2, 2021    | 1100            |  Bluemix to OpenShift Container Platform | [Coming soon]|
 | February 23, 2021    | 1100            | Value Realization framework for Application Modernization | [Coming soon] |
-| February 10, 2021    | 1100            | Native Kubernetes CI/CD Pipelines | [Recording](https://youtu.be/5XWwjyikWMQ) [Slides](https://docs.google.com/presentation/d/14fSLwfEVpDU-3udMGEW9bQATCAOy0F8b6UOgNgDkD3A/edit?usp=sharing) |
+| February 16, 2021    | 1100            | How to design a target architecture for your workload modernization project - based on workload analysis | [Coming soon] |
+| February 9, 2021    | 1100            | Native Kubernetes CI/CD Pipelines | [Recording](https://youtu.be/5XWwjyikWMQ) [Slides](https://docs.google.com/presentation/d/14fSLwfEVpDU-3udMGEW9bQATCAOy0F8b6UOgNgDkD3A/edit?usp=sharing) |
 | January 26, 2021    | 1100            | Migrating Spring Boot "Pet-Clinic" (REST version) to Quarkus | [Recording](https://youtu.be/coeVxLaXy5M) [Slides](https://docs.google.com/presentation/d/1QHzd06XVdlGhsqJCsTow3p4hUz0EK2njvCyrT9ZJr7U/edit?usp=sharing) |
 | January 5, 2020    | 1100            | Analyzing Applications with Cloud Suitability Analyzer | [Recording](https://youtu.be/XiR_MdUAyJI) [Slides](https://drive.google.com/file/d/1-QjxJ5T9iHcekSKQi5VUQgn-nA5Hxsq5/view?usp=sharing) |
 | December 15, 2020  | 1100            | Why tools make DX easier | [Recording](https://youtu.be/hMxNNOdaJj0) [Slides](https://docs.google.com/presentation/d/1ftOR0eZpIuk5JfI8isT_H-zoidcl6x9jTrQKahNMd8Y/edit?usp=sharing) |
