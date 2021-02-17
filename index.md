@@ -23,11 +23,15 @@ The Konveyor Community is working on tools in many areas. Here is a quick overvi
 
 If you have a tool you'd like to contribute please start a new thread in the [google group](https://groups.google.com/forum/#!forum/konveyorio).
 
+### Crane
+
 ![crane logo](https://github.com/konveyor/community/raw/main/brand/logo/konveyor-logo-crane.jpg)
 
 ![crane](https://konveyor.io/images/Konveyor_Diagram_mig-operator.png)
 
 Crane allows users to discover namespaces on source clusters and migrate the objects and their persistent volumes to a destination cluster.
+
+### Forklift
 
 ![fork logo](https://github.com/konveyor/community/raw/main/brand/logo/konveyor-logo-forklift.jpg)
 
@@ -37,7 +41,7 @@ Forklift allows users to discover virtual machines running on traditional virtua
 
 ### move2Kube
 
-![move2kube](https://konveyor.io/images/Konveyor_Diagram_move2kube.png)
+![move2kube](https://github.com/konveyor/community/raw/main/brand/logo/konveyor-logo-move2kube.jpg)
 
 move2kube is a command line tool that uses source artifacts such as docker compose files or cloud foundry manifest files, and even source code to generate kubernetes deployment artifacts including object yaml, helm charts, and operators. 
 
