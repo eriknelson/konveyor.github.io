@@ -28,7 +28,7 @@ Learn more about the a project:
 
 ![crane](https://konveyor.io/images/Konveyor_Diagram_mig-operator.png)
 
-Crane allows users to discover namespaces on source clusters and migrate the objects and their persistent volumes to a destination cluster.
+Crane allows users to discover namespaces on source clusters and migrate the objects and their persistent volumes to a destination cluster. [Learn more](https://github.com/konveyor/mig-controller)
 
 ### Forklift
 
@@ -36,19 +36,19 @@ Crane allows users to discover namespaces on source clusters and migrate the obj
 
 ![forklift](https://konveyor.io/images/Konveyor_Diagram_virt-operator.png)
 
-Forklift allows users to discover virtual machines running on traditional virtualization (vSphere) and migrate them to Kubevirt.
+Forklift allows users to discover virtual machines running on traditional virtualization (vSphere) and migrate them to Kubevirt. [Learn more](https://github.com/konveyor/forklift-operator)
 
 ### Move2Kube
 
 ![move2kube](https://github.com/konveyor/community/raw/main/brand/logo/konveyor-logo-move2kube.jpg)
 
-Move2Kube is a command line tool that uses source artifacts such as docker compose files or cloud foundry manifest files, and even source code to generate kubernetes deployment artifacts including object yaml, helm charts, and operators. [Learn more](https://github.com/konveyor/move2kube).
+Move2Kube is a command line tool that uses source artifacts such as docker compose files or cloud foundry manifest files, and even source code to generate kubernetes deployment artifacts including object yaml, helm charts, and operators. [Learn more](https://github.com/konveyor/move2kube)
 
 ### Pelorus
 
 ![Pelorus](https://github.com/konveyor/community/raw/main/brand/logo/konveyor-logo-pelorus.jpg)
 
-Pelorus is a tool that helps IT organizations measure their impact on the overall performance of their organization. It does this by gathering metrics about team and organizational behaviors over time in some key areas of IT that have been shown to impact the value they deliver to the organization as a whole.
+Pelorus is a tool that helps IT organizations measure their impact on the overall performance of their organization. It does this by gathering metrics about team and organizational behaviors over time in some key areas of IT that have been shown to impact the value they deliver to the organization as a whole. [Learn more](https://github.com/konveyor/pelorus)
 
 ### Tackle
 
