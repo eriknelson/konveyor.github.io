@@ -15,8 +15,6 @@ The community hosts regular [Meetups](meetups.md) where community members talk a
 
 ![Projects Overview](https://github.com/konveyor/community/raw/main/img/konveyor_overview.jpg)
 
-If you have a project you'd like to propose please start a new thread in the [google group](https://groups.google.com/forum/#!forum/konveyorio).
-
 Learn more about the a project:
  * [Crane](https://github.com/konveyor/konveyor.github.io/blob/master/index.md#crane)
  * [Forklift](https://github.com/konveyor/konveyor.github.io/blob/master/index.md#forklift)
