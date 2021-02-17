@@ -39,7 +39,7 @@ Crane allows users to discover namespaces on source clusters and migrate the obj
 
 Forklift allows users to discover virtual machines running on traditional virtualization (vSphere) and migrate them to Kubevirt.
 
-### move2Kube
+### Move2Kube
 
 ![move2kube](https://github.com/konveyor/community/raw/main/brand/logo/konveyor-logo-move2kube.jpg)
 
