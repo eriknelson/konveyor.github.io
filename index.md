@@ -11,17 +11,11 @@ Konveyor is **a community of people** passionate about helping others **moderniz
 
 The community hosts regular [Meetups](meetups.md) where community members talk and demonstrate things they've learned. If you'd like to receive invitations to the meetups or propose a talk you can [join the google group](https://groups.google.com/forum/#!forum/konveyorio).
 
-## Tools in the Konveyor Community
+## Projects in the Konveyor Community
 
-The Konveyor Community is working on tools in many areas. Here is a quick overview of some of the tools:
+![Projects Overview](https://github.com/konveyor/community/raw/main/img/konveyor_overview.jpg)
 
-* [crane](https://github.com/konveyor/mig-operator) - Migrate namespaces between Kubernetes clusters.
-* [forklift](https://github.com/konveyor/forklift-operator) - Migrate virtual machines to KubeVirt.
-* [move2kube](/move2kube) - Migrate from Cloud Foundry or Docker Swarm to Kubernetes.
-* [pelorus](https://github.com/redhat-cop/pelorus) - Measure the four critical measures to software delivery performance.
-* [windup](https://github.com/windup/windup) - Analyze applications for modernization paths.
-
-If you have a tool you'd like to contribute please start a new thread in the [google group](https://groups.google.com/forum/#!forum/konveyorio).
+If you have a project you'd like to propose please start a new thread in the [google group](https://groups.google.com/forum/#!forum/konveyorio).
 
 ### Crane
 
