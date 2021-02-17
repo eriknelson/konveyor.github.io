@@ -17,6 +17,13 @@ The community hosts regular [Meetups](meetups.md) where community members talk a
 
 If you have a project you'd like to propose please start a new thread in the [google group](https://groups.google.com/forum/#!forum/konveyorio).
 
+Learn more about the a project:
+ * [Crane](https://github.com/konveyor/konveyor.github.io/blob/master/index.md#crane)
+ * [Forklift](https://github.com/konveyor/konveyor.github.io/blob/master/index.md#forklift)
+ * [Move2Kube](https://github.com/konveyor/konveyor.github.io/blob/master/index.md#move2kube)
+ * [Pelorus](https://github.com/konveyor/konveyor.github.io/blob/master/index.md#pelorus)
+ * [Tackle](https://github.com/konveyor/konveyor.github.io/blob/master/index.md#tackle)
+
 ### Crane
 
 ![crane logo](https://github.com/konveyor/community/raw/main/brand/logo/konveyor-logo-crane.jpg)
@@ -39,18 +46,17 @@ Forklift allows users to discover virtual machines running on traditional virtua
 
 Move2Kube is a command line tool that uses source artifacts such as docker compose files or cloud foundry manifest files, and even source code to generate kubernetes deployment artifacts including object yaml, helm charts, and operators. 
 
-### Tackle
-
-![Tackle](https://github.com/konveyor/community/raw/main/brand/logo/konveyor-logo-tackle.jpg)
-
-Tackle provides analysis and recommendations on whether to rehost, replatform, or refactor applications and assists with accelerating refactoring applications.
-
 ### Pelorus
 
 ![Pelorus](https://github.com/konveyor/community/raw/main/brand/logo/konveyor-logo-pelorus.jpg)
 
 Pelorus is a tool that helps IT organizations measure their impact on the overall performance of their organization. It does this by gathering metrics about team and organizational behaviors over time in some key areas of IT that have been shown to impact the value they deliver to the organization as a whole.
 
+### Tackle
+
+![Tackle](https://github.com/konveyor/community/raw/main/brand/logo/konveyor-logo-tackle.jpg)
+
+Tackle provides analysis and recommendations on whether to rehost, replatform, or refactor applications and assists with accelerating refactoring applications.
 
 ## Assistance and Collaboration
 
