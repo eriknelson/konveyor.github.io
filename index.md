@@ -43,7 +43,20 @@ Forklift allows users to discover virtual machines running on traditional virtua
 
 ![move2kube](https://github.com/konveyor/community/raw/main/brand/logo/konveyor-logo-move2kube.jpg)
 
-move2kube is a command line tool that uses source artifacts such as docker compose files or cloud foundry manifest files, and even source code to generate kubernetes deployment artifacts including object yaml, helm charts, and operators. 
+Move2Kube is a command line tool that uses source artifacts such as docker compose files or cloud foundry manifest files, and even source code to generate kubernetes deployment artifacts including object yaml, helm charts, and operators. 
+
+### Tackle
+
+![Tackle](https://github.com/konveyor/community/raw/main/brand/logo/konveyor-logo-tackle.jpg)
+
+Tackle provides analysis and recommendations on whether to rehost, replatform, or refactor applications and assists with accelerating refactoring applications.
+
+### Pelorus
+
+![Pelorus](https://github.com/konveyor/community/raw/main/brand/logo/konveyor-logo-pelorus.jpg)
+
+Pelorus is a tool that helps IT organizations measure their impact on the overall performance of their organization. It does this by gathering metrics about team and organizational behaviors over time in some key areas of IT that have been shown to impact the value they deliver to the organization as a whole.
+
 
 ## Assistance and Collaboration
 
