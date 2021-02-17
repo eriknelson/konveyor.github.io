@@ -42,7 +42,7 @@ Forklift allows users to discover virtual machines running on traditional virtua
 
 ![move2kube](https://github.com/konveyor/community/raw/main/brand/logo/konveyor-logo-move2kube.jpg)
 
-Move2Kube is a command line tool that uses source artifacts such as docker compose files or cloud foundry manifest files, and even source code to generate kubernetes deployment artifacts including object yaml, helm charts, and operators. 
+Move2Kube is a command line tool that uses source artifacts such as docker compose files or cloud foundry manifest files, and even source code to generate kubernetes deployment artifacts including object yaml, helm charts, and operators. [Learn more](https://github.com/konveyor/move2kube).
 
 ### Pelorus
 
